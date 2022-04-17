@@ -1,0 +1,37 @@
+{
+    "id": 11,
+    "name": "Sir Felix, Eleventh of TheThousand",
+    "image": "https://gateway.pinata.cloud/ipfs/QmStqrCCiz5uCy988yQsEi4RxzTYA99mgTRxCtg5ZdM7Nw",
+    "minted_at": "ide.zilliqa.com",
+    "attributes": [{
+            "value": "False",
+            "trait_type": "Lines"
+        },
+        {
+            "value": "Light",
+            "trait_type": "Background"
+        },
+        {
+            "value": "Dark",
+            "trait_type": "Accent1"
+        },
+        {
+            "value": "Dark",
+            "trait_type": "Accent2"
+        },
+        {
+            "value": "Dark",
+            "trait_type": "Armor1"
+        },
+        {
+            "value": "Dark",
+            "trait_type": "Armor2"
+        },
+        {
+            "value": "Dark",
+            "trait_type": "Armor3"
+        }
+    ],
+    "description": "",
+    "resource": "https://gateway.pinata.cloud/ipfs/QmStqrCCiz5uCy988yQsEi4RxzTYA99mgTRxCtg5ZdM7Nw"
+}
