@@ -1,0 +1,37 @@
+{
+    "id": 13,
+    "name": "Sir Derek, Thirteenth of TheThousand",
+    "image": "https://cold-cloud-5108.on.fleek.co/U2lyIERlcmVrLCBUaGlydGVlbnRoIG9mIFRoZVRob3VzYW5kLnBuZw==",
+    "minted_at": "ide.zilliqa.com",
+    "attributes": [{
+            "value": "True",
+            "trait_type": "Lines"
+        },
+        {
+            "value": "Dark",
+            "trait_type": "Background"
+        },
+        {
+            "value": "Light",
+            "trait_type": "Accent1"
+        },
+        {
+            "value": "Light",
+            "trait_type": "Accent2"
+        },
+        {
+            "value": "Dark",
+            "trait_type": "Armor1"
+        },
+        {
+            "value": "Light",
+            "trait_type": "Armor2"
+        },
+        {
+            "value": "Dark",
+            "trait_type": "Armor3"
+        }
+    ],
+    "description": "",
+    "resource": "https://cold-cloud-5108.on.fleek.co/U2lyIERlcmVrLCBUaGlydGVlbnRoIG9mIFRoZVRob3VzYW5kLnBuZw=="
+}
