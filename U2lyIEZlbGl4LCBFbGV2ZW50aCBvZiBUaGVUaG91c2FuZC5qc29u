@@ -1,7 +1,7 @@
 {
     "id": 11,
     "name": "Sir Felix, Eleventh of TheThousand",
-    "image": "https://gateway.pinata.cloud/ipfs/QmStqrCCiz5uCy988yQsEi4RxzTYA99mgTRxCtg5ZdM7Nw",
+    "image": "https://cold-cloud-5108.on.fleek.co/U2lyIEZlbGl4LCBFbGV2ZW50aCBvZiBUaGVUaG91c2FuZC5wbmc=",
     "minted_at": "ide.zilliqa.com",
     "attributes": [{
             "value": "False",
@@ -33,5 +33,5 @@
         }
     ],
     "description": "",
-    "resource": "https://gateway.pinata.cloud/ipfs/QmStqrCCiz5uCy988yQsEi4RxzTYA99mgTRxCtg5ZdM7Nw"
+    "resource": "https://cold-cloud-5108.on.fleek.co/U2lyIEZlbGl4LCBFbGV2ZW50aCBvZiBUaGVUaG91c2FuZC5wbmc="
 }
