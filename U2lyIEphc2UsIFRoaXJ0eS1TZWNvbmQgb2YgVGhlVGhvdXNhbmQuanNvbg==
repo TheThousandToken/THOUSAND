@@ -1,0 +1,38 @@
+{
+    "id": 32, 
+    "name": "Sir Jase, Thirty-Second of TheThousand", 
+    "image": "https://cold-cloud-5108.on.fleek.co/U2lyIEphc2UsIFRoaXJ0eS1TZWNvbmQgb2YgVGhlVGhvdXNhbmQucG5n", 
+    "minted_at": "ide.zilliqa.com", 
+    "attributes": [
+        {
+            "value": "False", 
+            "trait_type": "Lines"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Background"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Accent1"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Accent2"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Armor1"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Armor2"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Armor3"
+        }
+    ], 
+    "description": "", 
+    "resource": "https://cold-cloud-5108.on.fleek.co/U2lyIEphc2UsIFRoaXJ0eS1TZWNvbmQgb2YgVGhlVGhvdXNhbmQucG5n"
+}
