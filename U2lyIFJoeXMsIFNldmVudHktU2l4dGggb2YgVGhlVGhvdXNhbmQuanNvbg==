@@ -1,0 +1,38 @@
+{
+    "id": 76, 
+    "name": "Sir Rhys, Seventy-Sixth of TheThousand", 
+    "image": "https://cold-cloud-5108.on.fleek.co/U2lyIFJoeXMsIFNldmVudHktU2l4dGggb2YgVGhlVGhvdXNhbmQucG5n", 
+    "minted_at": "ide.zilliqa.com", 
+    "attributes": [
+        {
+            "value": "True", 
+            "trait_type": "Lines"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Background"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Accent1"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Accent2"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Armor1"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Armor2"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Armor3"
+        }
+    ], 
+    "description": "", 
+    "resource": "https://cold-cloud-5108.on.fleek.co/U2lyIFJoeXMsIFNldmVudHktU2l4dGggb2YgVGhlVGhvdXNhbmQucG5n"
+}

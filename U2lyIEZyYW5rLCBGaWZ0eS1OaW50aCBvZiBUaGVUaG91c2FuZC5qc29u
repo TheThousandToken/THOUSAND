@@ -1,0 +1,38 @@
+{
+    "id": 59, 
+    "name": "Sir Frank, Fifty-Ninth of TheThousand", 
+    "image": "https://cold-cloud-5108.on.fleek.co/U2lyIEZyYW5rLCBGaWZ0eS1OaW50aCBvZiBUaGVUaG91c2FuZC5wbmc=", 
+    "minted_at": "ide.zilliqa.com", 
+    "attributes": [
+        {
+            "value": "True", 
+            "trait_type": "Lines"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Background"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Accent1"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Accent2"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Armor1"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Armor2"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Armor3"
+        }
+    ], 
+    "description": "", 
+    "resource": "https://cold-cloud-5108.on.fleek.co/U2lyIEZyYW5rLCBGaWZ0eS1OaW50aCBvZiBUaGVUaG91c2FuZC5wbmc="
+}
