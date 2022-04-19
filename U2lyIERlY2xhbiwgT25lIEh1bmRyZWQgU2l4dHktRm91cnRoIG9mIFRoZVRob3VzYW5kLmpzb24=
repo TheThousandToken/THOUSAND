@@ -1,0 +1,38 @@
+{
+    "id": 164, 
+    "name": "Sir Declan, One Hundred Sixty-Fourth of TheThousand", 
+    "image": "https://cold-cloud-5108.on.fleek.co/U2lyIERlY2xhbiwgT25lIEh1bmRyZWQgU2l4dHktRm91cnRoIG9mIFRoZVRob3VzYW5kLnBuZw==", 
+    "minted_at": "ide.zilliqa.com", 
+    "attributes": [
+        {
+            "value": "True", 
+            "trait_type": "Lines"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Background"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Accent1"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Accent2"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Armor1"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Armor2"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Armor3"
+        }
+    ], 
+    "description": "", 
+    "resource": "https://cold-cloud-5108.on.fleek.co/U2lyIERlY2xhbiwgT25lIEh1bmRyZWQgU2l4dHktRm91cnRoIG9mIFRoZVRob3VzYW5kLnBuZw=="
+}

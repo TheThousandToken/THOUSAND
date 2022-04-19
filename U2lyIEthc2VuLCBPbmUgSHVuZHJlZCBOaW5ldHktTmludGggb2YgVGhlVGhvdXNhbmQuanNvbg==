@@ -1,0 +1,38 @@
+{
+    "id": 199, 
+    "name": "Sir Kasen, One Hundred Ninety-Ninth of TheThousand", 
+    "image": "https://cold-cloud-5108.on.fleek.co/U2lyIEthc2VuLCBPbmUgSHVuZHJlZCBOaW5ldHktTmludGggb2YgVGhlVGhvdXNhbmQucG5n", 
+    "minted_at": "ide.zilliqa.com", 
+    "attributes": [
+        {
+            "value": "True", 
+            "trait_type": "Lines"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Background"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Accent1"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Accent2"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Armor1"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Armor2"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Armor3"
+        }
+    ], 
+    "description": "", 
+    "resource": "https://cold-cloud-5108.on.fleek.co/U2lyIEthc2VuLCBPbmUgSHVuZHJlZCBOaW5ldHktTmludGggb2YgVGhlVGhvdXNhbmQucG5n"
+}
