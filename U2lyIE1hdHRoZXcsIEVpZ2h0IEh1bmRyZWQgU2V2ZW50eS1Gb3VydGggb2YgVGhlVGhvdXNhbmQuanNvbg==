@@ -1,0 +1,38 @@
+{
+    "id": 874, 
+    "name": "Sir Matthew, Eight Hundred Seventy-Fourth of TheThousand", 
+    "image": "https://cold-cloud-5108.on.fleek.co/U2lyIE1hdHRoZXcsIEVpZ2h0IEh1bmRyZWQgU2V2ZW50eS1Gb3VydGggb2YgVGhlVGhvdXNhbmQucG5n", 
+    "minted_at": "ide.zilliqa.com", 
+    "attributes": [
+        {
+            "value": "True", 
+            "trait_type": "Lines"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Background"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Accent1"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Accent2"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Armor1"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Armor2"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Armor3"
+        }
+    ], 
+    "description": "", 
+    "resource": "https://cold-cloud-5108.on.fleek.co/U2lyIE1hdHRoZXcsIEVpZ2h0IEh1bmRyZWQgU2V2ZW50eS1Gb3VydGggb2YgVGhlVGhvdXNhbmQucG5n"
+}

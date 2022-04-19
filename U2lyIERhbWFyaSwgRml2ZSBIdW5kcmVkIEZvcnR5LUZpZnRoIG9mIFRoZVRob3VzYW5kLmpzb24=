@@ -1,0 +1,38 @@
+{
+    "id": 545, 
+    "name": "Sir Damari, Five Hundred Forty-Fifth of TheThousand", 
+    "image": "https://cold-cloud-5108.on.fleek.co/U2lyIERhbWFyaSwgRml2ZSBIdW5kcmVkIEZvcnR5LUZpZnRoIG9mIFRoZVRob3VzYW5kLnBuZw==", 
+    "minted_at": "ide.zilliqa.com", 
+    "attributes": [
+        {
+            "value": "False", 
+            "trait_type": "Lines"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Background"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Accent1"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Accent2"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Armor1"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Armor2"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Armor3"
+        }
+    ], 
+    "description": "", 
+    "resource": "https://cold-cloud-5108.on.fleek.co/U2lyIERhbWFyaSwgRml2ZSBIdW5kcmVkIEZvcnR5LUZpZnRoIG9mIFRoZVRob3VzYW5kLnBuZw=="
+}

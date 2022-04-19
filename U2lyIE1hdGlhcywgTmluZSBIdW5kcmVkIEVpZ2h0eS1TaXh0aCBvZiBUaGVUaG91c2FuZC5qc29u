@@ -1,0 +1,38 @@
+{
+    "id": 986, 
+    "name": "Sir Matias, Nine Hundred Eighty-Sixth of TheThousand", 
+    "image": "https://cold-cloud-5108.on.fleek.co/U2lyIE1hdGlhcywgTmluZSBIdW5kcmVkIEVpZ2h0eS1TaXh0aCBvZiBUaGVUaG91c2FuZC5wbmc=", 
+    "minted_at": "ide.zilliqa.com", 
+    "attributes": [
+        {
+            "value": "False", 
+            "trait_type": "Lines"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Background"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Accent1"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Accent2"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Armor1"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Armor2"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Armor3"
+        }
+    ], 
+    "description": "", 
+    "resource": "https://cold-cloud-5108.on.fleek.co/U2lyIE1hdGlhcywgTmluZSBIdW5kcmVkIEVpZ2h0eS1TaXh0aCBvZiBUaGVUaG91c2FuZC5wbmc="
+}

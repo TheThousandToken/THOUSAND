@@ -1,0 +1,38 @@
+{
+    "id": 765, 
+    "name": "Sir Broderick, Seven Hundred Sixty-Fifth of TheThousand", 
+    "image": "https://cold-cloud-5108.on.fleek.co/U2lyIEJyb2RlcmljaywgU2V2ZW4gSHVuZHJlZCBTaXh0eS1GaWZ0aCBvZiBUaGVUaG91c2FuZC5wbmc=", 
+    "minted_at": "ide.zilliqa.com", 
+    "attributes": [
+        {
+            "value": "False", 
+            "trait_type": "Lines"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Background"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Accent1"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Accent2"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Armor1"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Armor2"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Armor3"
+        }
+    ], 
+    "description": "", 
+    "resource": "https://cold-cloud-5108.on.fleek.co/U2lyIEJyb2RlcmljaywgU2V2ZW4gSHVuZHJlZCBTaXh0eS1GaWZ0aCBvZiBUaGVUaG91c2FuZC5wbmc="
+}

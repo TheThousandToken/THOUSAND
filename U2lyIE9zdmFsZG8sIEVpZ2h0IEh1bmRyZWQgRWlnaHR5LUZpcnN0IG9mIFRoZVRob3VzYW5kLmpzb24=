@@ -1,0 +1,38 @@
+{
+    "id": 881, 
+    "name": "Sir Osvaldo, Eight Hundred Eighty-First of TheThousand", 
+    "image": "https://cold-cloud-5108.on.fleek.co/U2lyIE9zdmFsZG8sIEVpZ2h0IEh1bmRyZWQgRWlnaHR5LUZpcnN0IG9mIFRoZVRob3VzYW5kLnBuZw==", 
+    "minted_at": "ide.zilliqa.com", 
+    "attributes": [
+        {
+            "value": "True", 
+            "trait_type": "Lines"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Background"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Accent1"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Accent2"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Armor1"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Armor2"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Armor3"
+        }
+    ], 
+    "description": "", 
+    "resource": "https://cold-cloud-5108.on.fleek.co/U2lyIE9zdmFsZG8sIEVpZ2h0IEh1bmRyZWQgRWlnaHR5LUZpcnN0IG9mIFRoZVRob3VzYW5kLnBuZw=="
+}

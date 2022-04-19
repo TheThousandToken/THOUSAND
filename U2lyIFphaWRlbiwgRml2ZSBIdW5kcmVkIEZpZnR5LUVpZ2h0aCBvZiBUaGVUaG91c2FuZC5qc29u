@@ -1,0 +1,38 @@
+{
+    "id": 558, 
+    "name": "Sir Zaiden, Five Hundred Fifty-Eighth of TheThousand", 
+    "image": "https://cold-cloud-5108.on.fleek.co/U2lyIFphaWRlbiwgRml2ZSBIdW5kcmVkIEZpZnR5LUVpZ2h0aCBvZiBUaGVUaG91c2FuZC5wbmc=", 
+    "minted_at": "ide.zilliqa.com", 
+    "attributes": [
+        {
+            "value": "True", 
+            "trait_type": "Lines"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Background"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Accent1"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Accent2"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Armor1"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Armor2"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Armor3"
+        }
+    ], 
+    "description": "", 
+    "resource": "https://cold-cloud-5108.on.fleek.co/U2lyIFphaWRlbiwgRml2ZSBIdW5kcmVkIEZpZnR5LUVpZ2h0aCBvZiBUaGVUaG91c2FuZC5wbmc="
+}
