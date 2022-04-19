@@ -1,0 +1,38 @@
+{
+    "id": 402, 
+    "name": "Sir Aidan, Four Hundred Second of TheThousand", 
+    "image": "https://cold-cloud-5108.on.fleek.co/U2lyIEFpZGFuLCBGb3VyIEh1bmRyZWQgU2Vjb25kIG9mIFRoZVRob3VzYW5kLnBuZw==", 
+    "minted_at": "ide.zilliqa.com", 
+    "attributes": [
+        {
+            "value": "False", 
+            "trait_type": "Lines"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Background"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Accent1"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Accent2"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Armor1"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Armor2"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Armor3"
+        }
+    ], 
+    "description": "", 
+    "resource": "https://cold-cloud-5108.on.fleek.co/U2lyIEFpZGFuLCBGb3VyIEh1bmRyZWQgU2Vjb25kIG9mIFRoZVRob3VzYW5kLnBuZw=="
+}

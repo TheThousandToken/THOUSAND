@@ -1,0 +1,38 @@
+{
+    "id": 418, 
+    "name": "Sir Davin, Four Hundred Eighteenth of TheThousand", 
+    "image": "https://cold-cloud-5108.on.fleek.co/U2lyIERhdmluLCBGb3VyIEh1bmRyZWQgRWlnaHRlZW50aCBvZiBUaGVUaG91c2FuZC5wbmc=", 
+    "minted_at": "ide.zilliqa.com", 
+    "attributes": [
+        {
+            "value": "True", 
+            "trait_type": "Lines"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Background"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Accent1"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Accent2"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Armor1"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Armor2"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Armor3"
+        }
+    ], 
+    "description": "", 
+    "resource": "https://cold-cloud-5108.on.fleek.co/U2lyIERhdmluLCBGb3VyIEh1bmRyZWQgRWlnaHRlZW50aCBvZiBUaGVUaG91c2FuZC5wbmc="
+}
