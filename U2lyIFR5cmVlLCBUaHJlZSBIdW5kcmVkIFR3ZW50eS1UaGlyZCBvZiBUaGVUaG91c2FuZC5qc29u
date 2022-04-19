@@ -1,0 +1,38 @@
+{
+    "id": 323, 
+    "name": "Sir Tyree, Three Hundred Twenty-Third of TheThousand", 
+    "image": "https://cold-cloud-5108.on.fleek.co/U2lyIFR5cmVlLCBUaHJlZSBIdW5kcmVkIFR3ZW50eS1UaGlyZCBvZiBUaGVUaG91c2FuZC5wbmc=", 
+    "minted_at": "ide.zilliqa.com", 
+    "attributes": [
+        {
+            "value": "True", 
+            "trait_type": "Lines"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Background"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Accent1"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Accent2"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Armor1"
+        }, 
+        {
+            "value": "Light", 
+            "trait_type": "Armor2"
+        }, 
+        {
+            "value": "Dark", 
+            "trait_type": "Armor3"
+        }
+    ], 
+    "description": "", 
+    "resource": "https://cold-cloud-5108.on.fleek.co/U2lyIFR5cmVlLCBUaHJlZSBIdW5kcmVkIFR3ZW50eS1UaGlyZCBvZiBUaGVUaG91c2FuZC5wbmc="
+}
